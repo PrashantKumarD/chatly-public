@@ -18,13 +18,21 @@ Chatly is a full-stack real-time chat application built with the MERN stack (Mon
 
 ## Screenshots
 
-| Screenshot 1                                                                      | Screenshot 2                                                                      |
-| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| ![Screenshot 1](frontend/public/screenshots/Screenshot%202025-08-02%20024729.png) | ![Screenshot 2](frontend/public/screenshots/Screenshot%202025-08-02%20024747.png) |
-| **Screenshot 3**                                                                 | **Screenshot 4**                                                                 |
-| ![Screenshot 3](frontend/public/screenshots/Screenshot%202025-08-02%20024903.png) | ![Screenshot 4](frontend/public/screenshots/Screenshot%202025-08-02%20025313.png) |
- **Screenshot 5**                                                                                                                                                     
+### Screenshot 1
+<img src="frontend/public/screenshots/Screenshot%202025-08-02%20024729.png" alt="Screenshot 1" style="width: 100%; max-width: 900px;"/>
+
+### Screenshot 2
+<img src="frontend/public/screenshots/Screenshot%202025-08-02%20024747.png" alt="Screenshot 2" style="width: 100%; max-width: 900px;"/>
+
+### Screenshot 3
+<img src="frontend/public/screenshots/Screenshot%202025-08-02%20024903.png" alt="Screenshot 3" style="width: 100%; max-width: 900px;"/>
+
+### Screenshot 4
+<img src="frontend/public/screenshots/Screenshot%202025-08-02%20025313.png" alt="Screenshot 4" style="width: 100%; max-width: 900px;"/>
+
+### Screenshot 5
 <img src="frontend/public/screenshots/Screenshot%202025-08-02%20065019.png" alt="Screenshot 5" style="width: 100%; max-width: 900px;"/>
+
 
 ## Tech Stack
 
