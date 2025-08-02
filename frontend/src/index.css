@@ -1,0 +1,30 @@
+/* Import our modern design system */
+@import url('./styles/modern-design-system.css');
+
+/* Global Styles are now handled in modern-design-system.css */
+/* This file can be used for any additional global overrides */
+
+/* Chakra UI Overrides for Modern Design */
+.chakra-ui-light {
+  --chakra-colors-gray-50: var(--neutral-50);
+  --chakra-colors-gray-100: var(--neutral-100);
+  --chakra-colors-gray-200: var(--neutral-200);
+  --chakra-colors-gray-300: var(--neutral-300);
+  --chakra-colors-gray-400: var(--neutral-400);
+  --chakra-colors-gray-500: var(--neutral-500);
+  --chakra-colors-gray-600: var(--neutral-600);
+  --chakra-colors-gray-700: var(--neutral-700);
+  --chakra-colors-gray-800: var(--neutral-800);
+  --chakra-colors-gray-900: var(--neutral-900);
+  
+  --chakra-colors-blue-50: var(--primary-50);
+  --chakra-colors-blue-100: var(--primary-100);
+  --chakra-colors-blue-200: var(--primary-200);
+  --chakra-colors-blue-300: var(--primary-300);
+  --chakra-colors-blue-400: var(--primary-400);
+  --chakra-colors-blue-500: var(--primary-500);
+  --chakra-colors-blue-600: var(--primary-600);
+  --chakra-colors-blue-700: var(--primary-700);
+  --chakra-colors-blue-800: var(--primary-800);
+  --chakra-colors-blue-900: var(--primary-900);
+}
