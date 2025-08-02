@@ -14,7 +14,7 @@ Chatly is a full-stack real-time chat application built with the MERN stack (Mon
 - **Group Chat:** Create and manage group chats with multiple participants.
 - **User Search:** Easily find other users on the platform.
 - **Profile Viewing:** View user profiles, including their name and profile picture.
-- **Notifications:** (If implemented) Receive notifications for new messages.
+- **Notifications:** Receive notifications for new messages.
 
 ## Screenshots
 
@@ -23,8 +23,8 @@ Chatly is a full-stack real-time chat application built with the MERN stack (Mon
 | ![Screenshot 1](frontend/public/screenshots/Screenshot%202025-08-02%20024729.png) | ![Screenshot 2](frontend/public/screenshots/Screenshot%202025-08-02%20024747.png) |
 | **Screenshot 3**                                                                 | **Screenshot 4**                                                                 |
 | ![Screenshot 3](frontend/public/screenshots/Screenshot%202025-08-02%20024903.png) | ![Screenshot 4](frontend/public/screenshots/Screenshot%202025-08-02%20025313.png) |
-| **Screenshot 5**                                                                 | **Screenshot 6**                                                                 |
-| ![Screenshot 5](frontend/public/screenshots/Screenshot%202025-08-02%20065019.png) | ![Screenshot 6](frontend/public/screenshots/Screenshot%202025-08-02%20065038.png) |
+| **Screenshot 5**                                                                                                                                                     |
+| ![Screenshot 5](frontend/public/screenshots/Screenshot%202025-08-02%20065019.png)                                                                                     |
 
 ## Tech Stack
 
